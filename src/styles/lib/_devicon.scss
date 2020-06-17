@@ -111,7 +111,7 @@
     content: "\e926"
 }
 
-.devicon-visualstudio-plain colored:before {
+.devicon-visualstudio-plain :before {
     content: "\e927"
 }
 
@@ -641,7 +641,7 @@
     content: "\e7ec"
 }
 
-.devicon-html5-original-wordmark colored:before {
+.devicon-html5-original-wordmark:before {
     content: "\e7f6"
 }
 
@@ -670,7 +670,7 @@
     content: "\e835"
 }
 
-.devicon-java-original-wordmark colored:before {
+.devicon-java-original-wordmark:before {
     content: "\e841"
 }
 
@@ -678,7 +678,7 @@
     content: "\e842"
 }
 
-.devicon-javascript-original colored:before {
+.devicon-javascript-original :before {
     content: "\e845"
 }
 
@@ -738,7 +738,7 @@
     content: "\eb61"
 }
 
-.devicon-nodejs-original-wordmark colored:before {
+.devicon-nodejs-original-wordmark:before {
     content: "\eb69"
 }
 
@@ -805,7 +805,7 @@
     content: "\ebca"
 }
 
-.devicon-css3-original-wordmark colored:before,
+.devicon-css3-original-wordmark:before,
 .devicon-sass-plain:before {
     content: "\ebcb"
 }
@@ -1232,7 +1232,7 @@
     color: #6762a6
 }
 
-.devicon-html5-plain-wordmark.colored,
+.devicon-html5-original-wordmark.colored,
 .devicon-html5-plain.colored {
     color: #e54d26
 }
@@ -1252,7 +1252,7 @@
     color: #000
 }
 
-.devicon-java-plain-wordmark.colored,
+.devicon-java-original-wordmark.colored,
 .devicon-java-plain.colored {
     color: #EA2D2E
 }
@@ -1262,7 +1262,7 @@
     color: #8a4182
 }
 
-.devicon-javascript-plain.colored {
+.devicon-javascript-original.colored {
     color: #f0db4f
 }
 
@@ -1327,7 +1327,7 @@
     color: #090
 }
 
-.devicon-nodejs-plain-wordmark.colored,
+.devicon-nodejs-original-wordmark.colored,
 .devicon-nodejs-plain.colored {
     color: #83CD29
 }
@@ -1401,7 +1401,7 @@
 }
 
 .devicon-sass-original.colored,
-.devicon-sass-plain-wordmark.colored,
+.devicon-css3-original-wordmark.colored,
 .devicon-sass-plain.colored {
     color: #c69
 }
